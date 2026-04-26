@@ -43,7 +43,6 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
@@ -57,14 +56,6 @@ Lua                █████████████         65%
 Deepwoken builds   ████████████████████  99%
 Surviving Depths                         0%
 ```
-
----
-
-### Deepwoken Loadout
-
-| Oath | Build Type | Resonance | Status |
-|:----:|:----------:|:---------:|:------:|
-| Contractor | Intelligence | Attunement | Depths Diver |
 
 ---
 
