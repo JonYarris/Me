@@ -1,69 +1,57 @@
-````md
+````md id="73qvn2"
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=HEY+I'M+[YOUR+NAME];LUA+%7C+C%23+%7C+PYTHON+%7C+JS;BUILDING+COOL+STUFF;DEEPWOKEN+GRINDER" />
+# ⚔️ Hey, I'm YOUR NAME
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=WELCOME&fontSize=60&fontColor=ffffff&animation=fadeIn&color=0:000000,100:1a1a1a"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lua+%7C+C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff;Deepwoken+Grinder" />
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-sword.gif" width="650">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=WELCOME&fontSize=45&fontColor=ffffff&color=0:000000,100:222222"/>
 
 </div>
 
 ---
 
-## ⚔️ ABOUT ME
+## ⚔️ About Me
 
-```txt
-name      :: [your name]
-pronouns  :: he/him
-focus     :: lua / c# / python / javascript
-status    :: locked in
-hobby     :: deepwoken on roblox
-mindset   :: keep improving
+- he/him  
+- lua, c#, python, javascript  
+- i make random projects  
+- i play deepwoken on roblox <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" width="14">  
+- always improving
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,cs,python,javascript,git,github,vscode" />
+
+</div>
+
+---
+
+## 🌊 Current Status
+
+```lua
+while true do
+    code()
+    grind()
+    improve()
+end
 ````
 
 ---
 
-## 🛠 TECH
+## ☠️ Quote
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=lua,cs,python,javascript,git,github,vscode" />
-</div>
-
----
-
-## 🌊 DEEPWOKEN MODE
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" width="18"> Deepwoken Player
-
-</div>
-
-```lua
-local me = {
-    skill = "getting there",
-    build = "freshie destroyer",
-    goal = "be better than yesterday"
-}
-
-while alive do
-    grind()
-    improve()
-end
-```
-
----
-
-## ☠️ QUOTE
-
-> no handouts, no shortcuts, just progress
+> no shortcuts, just progress
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:1a1a1a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:222222,100:000000"/>
 
 </div>
 ```
