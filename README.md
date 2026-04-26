@@ -1,9 +1,6 @@
 <!-- GitHub Profile README -->
 <div align="center">
 
-# Jon
-
-*Sup*
 
 ![](https://img.shields.io/badge/Programmer-7c3aed?style=flat-square)
 ![](https://img.shields.io/badge/Anime_Enjoyer-be185d?style=flat-square)
@@ -32,7 +29,7 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,10 +47,10 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 ### Proficiency
 
 ```
-C#                 █████████████████     85%
-HTML / CSS         ████████████████      80%
+C#                 ████████████████████  100%
+HTML / CSS         ████████████████████  100%
 Lua                █████████████         65%
-Deepwoken builds   ████████████████████  99%
+Deepwoken builds   ████████████████████  100%
 Surviving Depths                         0%
 ```
 
@@ -65,5 +62,3 @@ Surviving Depths                         0%
 > — The Ferryman, probably
 
 ---
-
-<div align="center"><sub>[ OATH SWORN ✦ OATH KEPT ]</sub></div>
