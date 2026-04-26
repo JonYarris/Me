@@ -1,57 +1,57 @@
-````md id="73qvn2"
+<!-- GitHub Profile README -->
 <div align="center">
 
-# ⚔️ Hey, I'm YOUR NAME
+# Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lua+%7C+C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff;Deepwoken+Grinder" />
+*// erasing self. compiling a new existence.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=WELCOME&fontSize=45&fontColor=ffffff&color=0:000000,100:222222"/>
+![Programmer](https://img.shields.io/badge/Programmer-7c3aed?style=flat-square)
+![Anime](https://img.shields.io/badge/Anime%20Enjoyer-ec4899?style=flat-square)
+![Deepwoken](https://img.shields.io/badge/Deepwoken-10b981?style=flat-square)
+![Oath](https://img.shields.io/badge/Oath%3A%20Contractor-f59e0b?style=flat-square)
 
 </div>
 
 ---
 
-## ⚔️ About Me
+### 👤 About
 
-- he/him  
-- lua, c#, python, javascript  
-- i make random projects  
-- i play deepwoken on roblox <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Roblox_Logo_2022.svg" width="14">  
-- always improving
+Hey, I'm **[Jon]**.
+
+I write `code` by day and grind **Deepwoken** by night.
+Fueled by anime OSTs, unhealthy sleep schedules, and the eternal search for the perfect build.
 
 ---
 
-## 🛠 Tech Stack
+### 🟢 Currently
+
+- 🔨 Building something cool *(ask me)*
+- 📺 Watching: *[current anime]*
+- ⚔️ DW: grinding Resonance / surviving the Depths
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` `JavaScript` `TypeScript` `React` `Node.js` `Git` `Linux` `Lua`
+
+---
+
+### 📊 Stats
+
+| Power Level | Commits | Anime Watched | Deaths in DW |
+|:-----------:|:-------:|:-------------:|:------------:|
+| 20 / 20 | ∞ YTD | 100+ | ??? |
+
+---
+
+### ⚔️ Deepwoken Quote
+
+> *"Those who fear the depths will never know what lies beneath."*
+> — The Ferryman, probably
+
+---
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=lua,cs,python,javascript,git,github,vscode" />
-
+  <sub>[ OATH SWORN ✦ OATH KEPT ]</sub>
 </div>
-
----
-
-## 🌊 Current Status
-
-```lua
-while true do
-    code()
-    grind()
-    improve()
-end
-````
-
----
-
-## ☠️ Quote
-
-> no shortcuts, just progress
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:222222,100:000000"/>
-
-</div>
-```
