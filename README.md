@@ -1,30 +1,30 @@
 <!-- Profile README — paste into a repo named exactly your GitHub username -->
 <div align="center">
 
-# ⚔️ YourUsername
+# Jon
 
 *// erasing self. compiling a new existence.*
 
-![](https://img.shields.io/badge/⚡_Programmer-7c3aed?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🌸_Anime_Enjoyer-be185d?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/⚔️_Deepwoken-059669?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🔱_Oath%3A_Contractor-b45309?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/💀_Depths_Veteran-7f1d1d?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Programmer-7c3aed?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Anime_Enjoyer-be185d?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Deepwoken-059669?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Oath%3A_Fadetrimmer-b45309?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Depths_Veteran-7f1d1d?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-### 👤 About
+### About
 
-Hey, I'm **[Name]**.
+Hey, I'm **Jon**.
 
 I write `code` by day and grind **Deepwoken** by night.
 Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for the perfect build.
 
 ---
 
-### 🟢 Currently
+### Currently
 
 - 🟢 Building something cool *(ask me)*
 - 🟣 Watching: *[current anime]*
@@ -32,7 +32,7 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="left">
 
@@ -53,7 +53,7 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 
-### ⚔️ Deepwoken
+### Deepwoken
 
 > *"Those who fear the depths will never know what lies beneath."*
 > — The Ferryman, probably
