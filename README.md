@@ -1,4 +1,4 @@
-<!-- GitHub Profile README -->
+
 <div align="center">
 
 
@@ -59,6 +59,6 @@ Surviving Depths                         0%
 ### Quote
 
 > *"Those who fear the depths will never know what lies beneath."*
-> — The Ferryman, probably
+> - The Ferryman, probably
 
 ---
