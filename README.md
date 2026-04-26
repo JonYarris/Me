@@ -21,12 +21,6 @@ Fueled by *anime OSTs*, unhealthy sleep schedules, and the eternal search for th
 
 ---
 
-### Currently
-
-- 🟢 Building something cool *(ask me)*
-- 🟣 Watching: *[current anime]*
-- 🩷 DW: grinding Resonance / surviving the Depths
-
 ---
 
 ### Tech Stack
